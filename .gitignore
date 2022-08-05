@@ -1,3 +1,2 @@
-/movie/*
-/.idea
+.idea
 **/__pycache__
